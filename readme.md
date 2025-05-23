@@ -1,3 +1,12 @@
+# Custom VIAL ports for QMK/VIA keyboards
+This repository is a collection of VIAL ports for some of my keyboards that only supported VIA. VIAL firmware for the following keyboards are available here:
+
+* Neo65 cu - [![source branch](https://github.com/jeffrysleddens/vial-qmk/tree/neo65cu/keyboards/neo/neo65cu)] - [![latest firmware](https://github.com/jeffrysleddens/vial-qmk/releases/tag/v20250406_001-alpha)]
+
+------
+
+Original vial-qmk README contents:
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
